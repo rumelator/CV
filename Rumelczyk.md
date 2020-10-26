@@ -32,5 +32,4 @@ w Warszawie**
 Programowanie
 E-Sport
 Motoryzacja
-Kino
 Rozwój osobisty
