@@ -33,3 +33,8 @@ Programowanie
 E-Sport
 Motoryzacja
 Rozwój osobisty
+
+##### Hobby
+Wędkarstwo
+Kulinaria
+Podróżowanie
